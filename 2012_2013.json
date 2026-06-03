@@ -1,0 +1,127 @@
+  [{
+    "type":"pageInfo",
+    "course_title":"SEMANTICS OF ENGLISH",
+    "code":"EST 306",
+    "session":"2012/2013 SECOND SEMESTER",
+    "kind":"mixed",
+    "topics":["Semantics",
+      "Pragmatics",
+      "Implicature",
+      "Deixis",
+      "Linguistic analysis",
+      "English Language",
+      "Linguistics",
+      "Word Meaning",
+      "Lexical Semantics",
+      "Discourse Analysis",
+      "Meaning Relations",
+      "Pronouns",
+      "English Grammar",
+      "Anaphora",
+      "Reference"],
+    "time":"90"
+  },
+    {
+      "type":"Instruction",
+      "content":["ANSWER THREE QUESTIONS. QUESTION ONE IS COMPULSORY"]},
+    
+    {
+      "type":"Question",
+      "name":"Question 1a",
+      "topic":["Semantics",
+        "Pragmatics",
+        "Implicature",
+        "Deixis",
+        "Linguistic analysis"],
+      "Question": {
+        "content":"What is the unsaid said in the underlined words: 'this' and 'again'?",
+        "type":"THEORY",
+        "options":[]},
+      "Explanation": {
+        "type":"string",
+        "content":"<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Implicit Meaning: Deixis and Implicature</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Deixis:</strong> Words or phrases whose meaning is entirely dependent on the context in which they are used (e.g., who is speaking, where, when). Deictic expressions (or deictics) 'point' to something in the immediate context. Examples include 'this', 'that', 'here', 'there', 'now', 'then', 'I', 'you'.<br><strong>Implicature:</strong> An implied meaning that is not explicitly stated but is understood by the listener or reader based on context, shared knowledge, and conversational principles. It represents what is 'unsaid said'.<br><strong>Context:</strong> The surrounding circumstances, including the physical environment, the participants, and their shared knowledge, that enable the full understanding of an utterance.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks to identify the 'unsaid said' in the words: 'this' and 'again'.</div><p style='margin:8px 0;'><strong>Step 1: Define 'unsaid said' in linguistic terms</strong><br>The phrase 'unsaid said' refers to the implicit meaning or information conveyed by an utterance that is not explicitly stated by the words themselves, but is inferred by the listener or reader. This concept is a core component of pragmatics, specifically related to implicature, where meaning is derived from context and shared understanding rather than just the literal words.</p><p style='margin:8px 0;'><strong>Step 2: Analyze 'this' and its 'unsaid said' meaning</strong><br>'This' is a demonstrative pronoun and a deictic expression. Its meaning is entirely dependent on the immediate context of the utterance. The 'unsaid said' for 'this' is the <span style='color:var(--orange);font-weight:bold;'>specific object, idea, or situation being referred to or pointed out by the speaker at that particular moment</span>. Without this contextual referent, the word 'this' is ambiguous and lacks concrete meaning.<br><em>Example:</em> If someone says, \"Look at this!\", the 'unsaid said' is the particular item or scene the speaker is directing attention to.</p><p style='margin:8px 0;'><strong>Step 3: Analyze 'again' and its 'unsaid said' meaning</strong><br>'Again' is an adverb that indicates repetition. It implies that an action, event, or state has occurred at least once before. The 'unsaid said' for 'again' is the <span style='color:var(--orange);font-weight:bold;'>existence of a prior, similar event or action that is being repeated</span>. The word itself does not describe the previous event, but it presupposes and implies its occurrence.<br><em>Example:</em> If someone says, \"He made the same mistake again!\", the 'unsaid said' is that he performed this specific mistake at least once before.</p><p style='margin:8px 0;'><strong>Step 4: Connect 'this' and 'again' to broader linguistic concepts</strong><br>Both 'this' and 'again' are excellent examples of how language relies on context and inference to convey full meaning. 'This' exemplifies <strong>deixis</strong>, where its reference point is anchored to the speaker's spatial, temporal, or discourse context. 'Again' demonstrates <strong>implicature</strong> by implying a temporal relationship and a repetition, which is understood through shared knowledge of events and discourse context. In both cases, the listener/reader actively constructs the 'unsaid said' meaning by drawing inferences from the surrounding situation and shared understanding.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The explanation correctly identifies the implicit information conveyed by each word. For 'this', the implicit meaning is its specific contextual referent. For 'again', the implicit meaning is the occurrence of a previous, similar event. These interpretations align with the linguistic concepts of deixis and implicature, confirming the accuracy of the analysis.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; For 'this', the unsaid said is its specific referent in the immediate context. For 'again', it is the implication of a prior, similar event or occurrence.</p></div>"
+      },
+      "Answer": {
+        "type":"string",
+        "content":"For 'this', its specific contextual referent. For 'again', the implication of a prior, similar event."
+      }},
+    {
+      "type":"Question",
+      "name":"Question 1b",
+      "Question": {
+        "content":"What is the meaning of the underlined word 'done'?",
+        "type":"THEORY",
+        "options":[]},
+      "topic":["Semantics",
+        "English Language",
+        "Linguistics",
+        "Word Meaning",
+        "Lexical Semantics"],
+      "Explanation": {
+        "type":"string",
+        "content":"<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Meaning and Usage of 'Done'</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The word 'done' is a versatile English word that primarily functions as the <em>past participle</em> of the verb 'to do'.<br>In <em>semantics</em>, it signifies <em>completion</em>, indicating that an action, task, or process has been brought to an end or finished.<br>It can also function as an adjective.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The word to define: 'done'</div><p style='margin:8px 0;'><strong>Step 1: Identify the grammatical form</strong><br>The word 'done' is the past participle form of the irregular verb 'to do'.<br>The principal parts of the verb 'to do' are: do (base form), did (past simple), done (past participle).</p><p style='margin:8px 0;'><strong>Step 2: Explain the primary semantic meaning</strong><br>When used as a past participle, 'done' primarily conveys the idea of <span style='color:var(--orange);font-weight:bold;'>completion</span> or <span style='color:var(--orange);font-weight:bold;'>finality</span>.<br>It indicates that an action or task has been finished, accomplished, or brought to an end.</p><p style='margin:8px 0;'><strong>Step 3: Illustrate common grammatical usages</strong><br>a. <strong>In Perfect Tenses:</strong> It combines with auxiliary verbs (have, has, had) to form perfect tenses.<br>   Example: \"I <em>have done</em> my homework.\" (The action of doing homework is complete.)<br>b. <strong>In Passive Voice:</strong> It is used with forms of 'to be' to construct passive sentences.<br>   Example: \"The work <em>is done</em>.\" (The work has been completed by someone.)<br>c. <strong>As an Adjective:</strong> It can describe a noun, meaning finished, cooked, or exhausted.<br>   Example: \"The steak is medium <em>done</em>.\" (The steak is cooked to a certain level.)<br>   Example: \"I'm <em>done</em> with this project.\" (I have finished this project.)</p><p style='margin:8px 0;'><strong>Step 4: Synthesize the meaning in context</strong><br>Regardless of its specific grammatical role, the core meaning of 'done' revolves around the conclusion of an action or state. It signals that something has reached its end point.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Consider the sentence: \"The cake is done.\" This implies that the cake has finished baking and is ready. If 'done' meant 'beginning' or 'in progress', the sentence would not make sense in this context. The meaning of completion is consistently applied across its various uses.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; 'Done' is the past participle of 'to do', signifying that an action or task has been completed or finished.</p></div>"
+      },
+      "Answer": {
+        "type":"string",
+        "content":"Past participle of 'to do', signifying completion or finality of an action or task."
+      }},
+    {
+      "type":"Question",
+      "name":"Question 1c",
+      "Question": {
+        "content":"Which is the common semantic meaning relation in the discourse?",
+        "type":"THEORY",
+        "options":[]},
+      "topic":["Semantics",
+        "Linguistics",
+        "Discourse Analysis",
+        "Meaning Relations",
+        "English Language"],
+      "Explanation": {
+        "type":"string",
+        "content":"<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Common Semantic Meaning Relations in Discourse</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>semantic meaning relation</em> describes how the meanings of words, phrases, or sentences relate to each other.<br><em>Discourse</em> refers to language in use, beyond the sentence level, encompassing conversations, texts, and other forms of communication.<br><em>Entailment</em> is a semantic relation where the truth of one statement necessarily guarantees the truth of another. If statement A entails statement B, then if A is true, B must also be true.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Identify the most common semantic meaning relation in discourse.</div><p style='margin:8px 0;'><strong>Step 1: Understand Semantic Meaning Relations</strong><br>Semantic meaning relations are fundamental to how we interpret language. They establish connections between linguistic units based on their meanings. These relations can exist between words (e.g., synonymy, antonymy) or between sentences (e.g., entailment, presupposition, contradiction).</p><p style='margin:8px 0;'><strong>Step 2: Define Discourse and its Coherence</strong><br>Discourse is language in context, often involving multiple sentences or turns in a conversation. For discourse to be meaningful and understandable, its parts must be coherent. Semantic relations play a crucial role in establishing this coherence by linking ideas logically across sentences.</p><p style='margin:8px 0;'><strong>Step 3: Explore Various Semantic Relations in Discourse</strong><br>Several semantic relations contribute to discourse coherence:<br>&#8226; &nbsp; <strong>Entailment:</strong> A logical consequence where one statement's truth guarantees another's.<br>&#8226; &nbsp; <strong>Presupposition:</strong> An underlying assumption that must be true for a statement to make sense.<br>&#8226; &nbsp; <strong>Contradiction:</strong> When two statements cannot both be true simultaneously.<br>&#8226; &nbsp; <strong>Synonymy/Paraphrase:</strong> When two expressions have the same or very similar meanings.<br>&#8226; &nbsp; <strong>Hyponymy/Hypernymy:</strong> A 'kind of' relationship (e.g., 'dog' is a hyponym of 'animal').<br>While all these contribute, one is particularly central to the logical flow of information.</p><p style='margin:8px 0;'><strong>Step 4: Identify Entailment as the Most Common Relation</strong><br>Entailment is widely considered the most common and fundamental semantic meaning relation in discourse because it establishes logical connections and truth conditions between propositions. It allows information to build upon itself, ensuring that conclusions or subsequent statements are logically supported by prior ones. For example, if a speaker says, \"John killed the spider,\" it entails that \"The spider is dead.\" This logical progression is essential for coherent communication and information transfer in discourse. Without entailment, the logical structure of arguments and narratives would break down.</p><p style='margin:8px 0;'><strong>Step 5: Connect to the Question</strong><br>Based on its foundational role in establishing logical connections and truth conditions that underpin coherent communication, <span style='color:var(--orange);font-weight:bold;'>entailment</span> is the most common semantic meaning relation in discourse.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Consider a simple discourse: \"The dog barked loudly. The dog made a noise.\" The first sentence entails the second. This relationship is crucial for understanding how information progresses and how new statements are logically linked to previous ones. While other relations like presupposition or synonymy also exist, entailment is the primary mechanism for truth-conditional inference and logical coherence across sentences in a discourse.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The common semantic meaning relation in discourse is Entailment.</p></div>"
+      },
+      "Answer": {
+        "type":"string",
+        "content":"Entailment"
+      }},
+    {
+      "type":"Question",
+      "name":"Question 1d",
+      "Question": {
+        "content":"What is the meaning of the pronoun 'it' in the discourse?",
+        "type":"THEORY",
+        "options":[]},
+      "topic":["Semantics",
+        "Pronouns",
+        "Discourse Analysis",
+        "English Grammar",
+        "Anaphora"],
+      "Explanation": {
+        "type":"string",
+        "content":"<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>The Pronoun 'It' in Discourse Analysis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>pronoun</em> is a word that replaces a noun or noun phrase. The pronoun 'it' is a third-person singular neuter pronoun.<br><em>Anaphora</em> refers to a word or phrase that refers back to an earlier word or phrase in the discourse.<br><em>Cataphora</em> refers to a word or phrase that refers forward to a later word or phrase in the discourse.<br>An <em>expletive pronoun</em> (or dummy pronoun) is a pronoun that fills a syntactic position but does not refer to a specific entity.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks for the meaning of the pronoun 'it' in discourse.</div><p style='margin:8px 0;'><strong>Step 1: Understand the nature of 'it' as a pronoun</strong><br>'It' is a versatile third-person singular pronoun in English, primarily used for non-human entities, inanimate objects, abstract concepts, or sometimes animals. Its meaning is highly dependent on the context within a discourse.</p><p style='margin:8px 0;'><strong>Step 2: Explain 'it' as an anaphoric pronoun</strong><br>The most common use of 'it' is anaphoric, meaning it refers back to a noun or noun phrase that has already been introduced in the discourse. This helps to avoid repetition and maintain textual cohesion.<br>Example: \"I bought a new book yesterday. <span style='color:var(--orange);font-weight:bold;'>It</span> is a thrilling mystery novel.\" (Here, 'it' refers to \"a new book\").</p><p style='margin:8px 0;'><strong>Step 3: Explain 'it' as an expletive or dummy pronoun</strong><br>'It' can also function as an expletive or dummy pronoun, serving as a grammatical placeholder without referring to a specific entity. This often occurs in constructions related to time, weather, distance, or in impersonal statements.<br>Example 1 (Weather): \"<span style='color:var(--orange);font-weight:bold;'>It</span> is raining heavily.\"<br>Example 2 (Time): \"<span style='color:var(--orange);font-weight:bold;'>It</span> is 3 o'clock.\"<br>Example 3 (Impersonal statement): \"<span style='color:var(--orange);font-weight:bold;'>It</span> is important to study.\"</p><p style='margin:8px 0;'><strong>Step 4: Explain 'it' as a cataphoric pronoun</strong><br>Less frequently, 'it' can be used cataphorically, meaning it refers forward to a clause or phrase that appears later in the sentence. This often introduces a complex subject or object.<br>Example: \"<span style='color:var(--orange);font-weight:bold;'>It</span> was clear that he had made a mistake.\" (Here, 'it' refers forward to \"that he had made a mistake\").</p><p style='margin:8px 0;'><strong>Step 5: Conclude on the meaning of 'it' in discourse</strong><br>In discourse, the meaning of the pronoun 'it' is therefore not fixed but is determined by its specific function within the sentence and its relationship to other elements. It either refers to an antecedent (anaphoric), anticipates a subsequent phrase (cataphoric), or acts as a grammatical placeholder (expletive).</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The various uses of 'it' (anaphoric, expletive, cataphoric) cover all common grammatical and semantic functions of the pronoun in English discourse. The meaning is always derived from the context and its role as either a referential pronoun or a grammatical placeholder.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The meaning of 'it' is determined by its referential antecedent (anaphoric/cataphoric) or its grammatical function as an expletive pronoun.</p></div>"
+      },
+      "Answer": {
+        "type":"string",
+        "content":"Its meaning is determined by its antecedent or its grammatical function."
+      }},
+    {
+      "type":"Question",
+      "name":"Question 1e",
+      "Question": {
+        "content":"Give a word that can stand for the underlined 'man' in the discourse.",
+        "type":"THEORY",
+        "options":[]},
+      "topic":["Semantics",
+        "Lexical Semantics",
+        "Reference",
+        "Discourse Analysis",
+        "Anaphora"],
+      "Explanation": {
+        "type":"string",
+        "content":"<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Anaphoric Reference and Pronouns</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><em>Anaphora</em> is a linguistic phenomenon where an expression (anaphor) refers back to an earlier expression (antecedent) in the text or discourse. This helps maintain cohesion and avoid repetition.<br>A <em>pronoun</em> is a word that replaces a noun or noun phrase, often serving as an anaphor to refer back to a previously mentioned noun. Common personal pronouns include 'he', 'she', 'it', 'they', 'him', 'her', 'them'.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks for a word that can stand for the underlined 'man' in a discourse.<br>The word 'man' is a singular, masculine, human noun.</div><p style='margin:8px 0;'><strong>Step 1: Understand the concept of 'standing for' a word.</strong><br>In linguistics, when a word 'stands for' another previously mentioned word, it's typically an instance of <em>anaphoric reference</em>. This mechanism is used to avoid redundancy and ensure textual cohesion, allowing the flow of information to be smooth without repeating the same noun.</p><p style='margin:8px 0;'><strong>Step 2: Identify the grammatical category of words used for anaphoric reference.</strong><br>Words that replace nouns or noun phrases to refer back to an antecedent are called <span style='color:var(--orange);font-weight:bold;'>pronouns</span>. These are the primary tools for anaphoric reference in English.</p><p style='margin:8px 0;'><strong>Step 3: Determine the grammatical features of the antecedent 'man'.</strong><br>The word 'man' has the following grammatical features:<br><ul><li><strong>Number:</strong> Singular (refers to one person).</li><li><strong>Gender:</strong> Masculine.</li><li><strong>Person:</strong> Third person (refers to someone other than the speaker or listener).</li><li><strong>Type:</strong> Human.</li></ul></p><p style='margin:8px 0;'><strong>Step 4: Select the appropriate personal pronoun based on the antecedent's features.</strong><br>Given that 'man' is singular, masculine, and third-person, the appropriate personal pronouns are:<br><ul><li><span style='color:var(--orange);font-weight:bold;'>'he'</span> when the 'man' is the subject of the subsequent clause.</li><li><span style='color:var(--orange);font-weight:bold;'>'him'</span> when the 'man' is the object of the subsequent clause.</li></ul>For example:<br>\"The <span style='text-decoration: underline;'>man</span> walked into the room. <span style='color:var(--orange);font-weight:bold;'>He</span> looked tired.\" (Here, 'he' is the subject)<br>\"I saw the <span style='text-decoration: underline;'>man</span> yesterday. I spoke to <span style='color:var(--orange);font-weight:bold;'>him</span> about the project.\" (Here, 'him' is the object)</p><p style='margin:8px 0;'><strong>Step 5: Conclude the most suitable word type.</strong><br>Therefore, an anaphoric personal pronoun, specifically 'he' or 'him', can stand for the underlined 'man' in the discourse, depending on its grammatical function in the sentence that follows.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>If we replace 'man' with 'he' or 'him' in a subsequent sentence, the reference remains clear and the sentence structure is grammatically correct. For instance, in \"The man arrived. He sat down.\", 'he' clearly refers to 'the man'. This confirms that 'he' and 'him' are appropriate anaphoric pronouns for 'man'.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; A personal pronoun, such as 'he' or 'him'.</p></div>"
+      },
+      "Answer": {
+        "type":"string",
+        "content":"An anaphoric pronoun (e.g., 'he' or 'him')"
+      }}]
